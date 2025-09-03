@@ -8,7 +8,6 @@ public class HelloWorld {
 		x = 10;
 		System.out.println("x == 10");
 		sayNumber(x);
-		System.out.println("commit");
 	}
 	public static void sayNumber(int x) {
 		System.out.println(x);
